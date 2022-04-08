@@ -1,0 +1,4 @@
+/* Basic info of the customer 
+*/
+Name : ABC
+Account : Savings
